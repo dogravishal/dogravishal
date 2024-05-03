@@ -5,7 +5,7 @@ Join me on this journey as I continue to learn, grow, and create meaningful solu
 
 ## 🚀 About Me
 
-- 🔭 Current Role: Driving web development initiatives at Skuad, I'm committed to refining our website to offer a transformative experience. With a focus on user-centric design, my aim is to simplify the process of connecting with our audience, fostering seamless interaction and engagement.
+- 🔭 Current Role: Driving web development initiatives at [Skuad](https://www.skuad.io/), I'm committed to refining our website to offer a transformative experience. With a focus on user-centric design, my aim is to simplify the process of connecting with our audience, fostering seamless interaction and engagement.
 - 💻 Tech Expertise: I breathe vitality into designs through HTML, CSS, JavaScript, TypeScript, ReactJS, WordPress, Webflow, Framer, and other tools of the trade.
 - 👨‍🔧 Leadership: Proficient in guiding dynamic teams toward achieving their goals.
 - 🌱 Learning: Dedicated to continuously expanding my skill set, I eagerly embrace new frameworks and technologies to enhance website development. Whether through code or no-code platforms, I leverage these tools to create exceptional digital experiences.
